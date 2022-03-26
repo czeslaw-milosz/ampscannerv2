@@ -1,0 +1,5 @@
+biopython>=1.6
+tensorflow==1.2.1
+h5py==2.6
+Keras==2.0.6
+scikit-learn>=0.20.0
